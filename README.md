@@ -30,5 +30,4 @@ pandas 1.0.3
             For testing pourpose, the code provied only train a model at pixel (0,0), the most upper-left pixel. So it only takes about 3 min.
 	    Please see the notebook for details about how to adapt the codes for complete prediction on 720 pixels.  
 
-            The training and prediction for GRM is very fast (within seconds).
  
