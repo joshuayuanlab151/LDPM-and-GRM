@@ -1,5 +1,6 @@
-# LDPM-and-GRM
+LDPM-and-GRM
 **Machine learning models for light distribution pattern  and growth rate predictions ** 
+
 1. Dependencies
 Windows 10
 Python 3.8.2
