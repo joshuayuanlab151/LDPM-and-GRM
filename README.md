@@ -17,7 +17,7 @@ pandas 1.0.3
 5) install numpy;
 6) install scikit-learn;
 7) install pandas;
-8) install matplotlib gor plotting
+8) install matplotlib for plotting
 
 **Instructions for running codes in notebook**
 1) open the notebook by entering 'jupyter notebook' in command prompt, a web browser will be opened. Select the directory where 'Codes for LDPM and GRM.ipynb' located. Open the ipynb file by clicking the file name.
